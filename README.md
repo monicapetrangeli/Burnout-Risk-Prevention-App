@@ -58,6 +58,13 @@ As part of the next evolution of Exhale, we plan to:
 ## Conclusion
 Exhale is more than a class project—it’s a prototype with potential. As mental health continues to gain attention in educational and workplace environments, tools like Exhale can play a meaningful role in promoting well-being through data, design, and empathy.
 
+## P.S.
+To run Exhale locally, please ensure the following:
+
+- Add your Fitbit Client ID and Secret to the fitbit_data.py file. You can obtain these by registering an app at dev.fitbit.com.
+
+- Set up your Google Calendar API by creating a credentials.json file as instructed in the official Google Calendar API guide. This file is required for scheduling features to function.
+
 ## Credits
 Exhale was developed by:
 

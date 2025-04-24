@@ -11,22 +11,22 @@ Exhale was born from this experience, with the vision of becoming a supportive, 
 
 ## Key Features
 - *Daily Burnout Prediction*
-  Using a combination of self-reported inputs and contextual data (workload, stress levels, exercise, sleep), the app calculates a personalized burnout risk score.
+    - Using a combination of self-reported inputs and contextual data (workload, stress levels, exercise, sleep), the app calculates a personalized burnout risk score.
 
 - *Smart Wellness Recommendations*
-  Based on the user’s burnout score, Exhale offers science-based activities across emotional, physical, mental, and restorative dimensions—and allows users to schedule them seamlessly into their day.
+    - Based on the user’s burnout score, Exhale offers science-based activities across emotional, physical, mental, and restorative dimensions—and allows users to schedule them seamlessly into their day.
 
 - *Fitbit Integration*
-  Users can connect their Fitbit to passively sync activity data, enhancing the accuracy of burnout prediction and minimizing reliance on manual input.
+    - Users can connect their Fitbit to passively sync activity data, enhancing the accuracy of burnout prediction and minimizing reliance on manual input.
 
 - *Intelligent Scheduling*
-  Through Google Calendar integration, Exhale can schedule wellness tasks around the user's existing obligations.
+    - Through Google Calendar integration, Exhale can schedule wellness tasks around the user's existing obligations.
 
 - *To-Do Lists and Journal Tracking*
-  The app supports reflective journaling and task management, creating a space for both productivity and introspection.
+    - The app supports reflective journaling and task management, creating a space for both productivity and introspection.
 
 - *Burnout History Dashboard*
-  Users can visualize their burnout trends over time and correlate them with habits and behavior.
+    - Users can visualize their burnout trends over time and correlate them with habits and behavior.
 
 ## Technical Highlights
 1. Streamlit Frontend for a reactive and interactive web experience.

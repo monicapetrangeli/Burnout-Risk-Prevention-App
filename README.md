@@ -68,7 +68,7 @@ To run Exhale locally, please ensure the following:
 ## Credits
 Exhale was developed by:
 
-- [@monicapetrangeli](https://github.com/monicapetrangeli) – Concept, system architecture, aesthetic
-- [@carlotatejeda](https://github.com/carlotatejeda) – FitBit API integration, aesthetic
-- [@SofiaGitHub](https://github.com/SofiaGitHub) – Features finalization, aesthetic
-- [@JuanPabloGitHub](https://github.com/JuanPabloGitHub) – Google Calendar API integration, aesthetic
+- [@monicapetrangeli](https://github.com/monicapetrangeli) – Contributor
+- [@carlotatejeda](https://github.com/carlotatejeda) – Contributor
+- [@SofiaGitHub](https://github.com/SofiaGitHub) – Contributor
+- [@Juan-Garcia-Zapparoli](https://github.com/Juan-Garcia-Zapparoli) – Contributor

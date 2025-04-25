@@ -70,5 +70,5 @@ Exhale was developed by:
 
 - [@monicapetrangeli](https://github.com/monicapetrangeli) – Contributor
 - [@carlotatejeda](https://github.com/carlotatejeda) – Contributor
-- [@SofiaGitHub](https://github.com/SofiaGitHub) – Contributor
+- [@sofiamarroquintelon](https://github.com/sofiamarroquintelon) – Contributor
 - [@Juan-Garcia-Zapparoli](https://github.com/Juan-Garcia-Zapparoli) – Contributor
